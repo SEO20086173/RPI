@@ -37,3 +37,19 @@ sudo service influxdb status
 ```
 
 ##다음다음다음
+# ------------------
+# 2025-08-10
+## 라즈베리파이 Telegram API 설치
+```
+pip3 install python-telegram-bot --upgrade
+```
+### 파이썬 깔기
+```
+sudo apt install python3-pip
+
+```
+#### error: externally-managed-environment
+- rm : 지우기
+```
+sudo rm /usr/lib/python3.@@(버전)/EXTERNALLY-MANAGED
+```
