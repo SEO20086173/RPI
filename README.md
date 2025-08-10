@@ -63,7 +63,7 @@ sudo apt install git
 ```
 git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
 ```
-## 라즈베리파이 카메라 이용
+## 라즈베리파이 파이썬 부분
 ### 파이썬 파일 들어가기
 - ls : 파일 보기
 - cd : 파일 열기
